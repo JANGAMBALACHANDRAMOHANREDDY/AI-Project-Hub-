@@ -1,0 +1,14 @@
+# AI Project Hub
+
+A simple AI project platform.
+
+## Features
+- Basic homepage
+- Styled with CSS
+- JavaScript button interaction
+
+## How to Use
+1. Open `index.html` in a browser.
+2. Click the button to see an alert message.
+
+Enjoy coding! 🚀
